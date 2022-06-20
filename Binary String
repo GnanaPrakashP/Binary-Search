@@ -1,0 +1,10 @@
+Problem Statement 
+
+Given a binary string 's' consisting of characters 0 and/or 1. Now you can remove several (possibly zero) from the beginning and end of the string. The cost is defined
+as maximum of the two values
+    i) the number of characters '0' left in the string
+    ii) the number of characters '1' removed from the string
+Output the minimum cost
+
+Solution
+
