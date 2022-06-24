@@ -1,0 +1,6 @@
+Common variations of BinarySearch
+
+1) LowerBound : find an element X in a sorted array of integers such that X >= K , where key K is given
+2) UpperBound : find an element X in a sorted array of integers such that X > K , where key K is given
+
+https://www.hackerrank.com/challenges/maximum-subarray-sum/topics
